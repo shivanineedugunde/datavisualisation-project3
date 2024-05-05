@@ -1,0 +1,101 @@
+track_id,artists,album_name,track_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature
+5hR6lVUp1JyTrxzihXTvZJ,"Pritam, Papon, Varun Grover","Nazar Teri Toofan (From ""Merry Christmas"")","Nazar Teri Toofan (From ""Merry Christmas"")",61,243610,FALSE,0.462,0.628,2,-6.702,1,0.0443,0.235,0.0,0.0822,0.252,117.202,4
+2kPXVr1Sr8hoCv7g41WCuS,"Pritam, Diljit Dosanjh, Kumaar","Banda (From ""Dunki"")","Banda (From ""Dunki"")",60,168861,FALSE,0.869,0.746,9,-6.572,1,0.231,0.142,0.0,0.32,0.609,127.087,4
+5qMvYzgquX6SnugWREFj6e,"Pritam, Ash King, Varun Grover","Merry Christmas (Title Track) (From ""Merry Christmas"")","Merry Christmas (Title Track) (From ""Merry Christmas"")",53,152000,FALSE,0.682,0.638,0,-7.158,0,0.0321,0.544,0.0,0.178,0.821,105.063,4
+0VXBujZKMLLlmee25BXEQs,"Vishal-Shekhar, Vishal Dadlani, Shekhar Ravjiani, Benny Dayal, Shilpa Rao, Kumaar","Sher Khul Gaye (From ""Fighter"")","Sher Khul Gaye (From ""Fighter"")",73,180172,FALSE,0.88,0.63,0,-6.719,0,0.0606,0.0219,0.0,0.0663,0.81,123.021,4
+1k3i030OvSLAjHf4wv4pf2,Siddhant Goenka,Farishtey,Farishtey,39,201882,FALSE,0.336,0.486,7,-10.336,1,0.0408,0.0809,2.2E-05,0.566,0.102,169.862,4
+3iFYJMrRS0fLrwDNVbqNF0,Darshan Raval,Saajan Ve,Saajan Ve,76,171473,FALSE,0.712,0.675,3,-5.44,1,0.0923,0.121,1.22E-05,0.0955,0.545,95.0,4
+3eTle4C3yd6Ulxyky2YvmW,Indrasish Ghosh,Shayed,Shayed,31,306875,FALSE,0.554,0.54,2,-6.887,1,0.0277,0.439,1.69E-05,0.083,0.411,143.876,4
+1IkXYHxLkXfhLPLv7lukJz,Siddhant Goenka,Jazbaat,Jazbaat,33,202636,FALSE,0.556,0.362,8,-11.463,1,0.0335,0.425,0.0,0.377,0.0886,111.203,4
+23YpzkTDtU78GK6vpgRbkM,"Vishal-Shekhar, Vishal Dadlani, Shekhar Ravjiani, Shilpa Rao, Mellow D, Kumaar","Ishq Jaisa Kuch (From ""Fighter"")","Ishq Jaisa Kuch (From ""Fighter"")",76,169686,FALSE,0.736,0.697,1,-7.672,0,0.0416,0.115,1.47E-05,0.149,0.386,104.974,4
+6UlpuzN1E4p9H2hTon4YsD,Satbir Aulakh,Sawariya,Sawariya,40,255468,FALSE,0.653,0.792,1,-4.998,1,0.0801,0.035,0.0,0.332,0.328,128.073,4
+1fGXJZny7HUQnLKwttxmYw,"Vishal Mishra, Raj Shekhar","Marham (Pehle Bhi Main) [From ""ANIMAL""]","Marham (Pehle Bhi Main) [From ""ANIMAL""]",74,113264,FALSE,0.407,0.186,1,-9.031,1,0.0371,0.93,0.0,0.0879,0.511,99.772,5
+3vlWnjdmbNVFeafmxZIFSh,Shazvit,Besabar,Besabar,35,264000,FALSE,0.564,0.499,0,-7.91,1,0.0255,0.705,2.72E-06,0.395,0.353,78.979,4
+6DtyO979l9KCtlMVgaodZ4,Aidan M,Tere Naam Ho Gayi,Tere Naam Ho Gayi,36,206666,FALSE,0.628,0.748,9,-5.67,0,0.0441,0.0925,0.0,0.232,0.347,144.134,4
+3EqdrZLHQT5FsB4K6RLO2f,Indrasish Ghosh,Thodi Pyar Hai,Thodi Pyar Hai,30,134265,FALSE,0.784,0.616,5,-8.685,1,0.0379,0.397,0.0,0.183,0.496,111.924,4
+4QFxnsKjnWB2GlHFChnZSX,"Ravi Basrur, Riya Mukherjee, Sri Krishna","Yaraa (From ""Salaar Cease Fire - Hindi"")","Yaraa (From ""Salaar Cease Fire - Hindi"")",51,195000,FALSE,0.484,0.483,4,-8.639,0,0.0343,0.211,0.0,0.109,0.168,88.007,4
+3UBl2tTmAk0M96PQ5W8poQ,Indrasish Ghosh,Galatfaimiyan,Galatfaimiyan,31,142602,FALSE,0.614,0.651,4,-7.147,0,0.0307,0.326,7.2E-05,0.39,0.533,155.957,4
+14n3EMkhUDZNWPyBzClbH8,"Guru Randhawa, Meet Bros., Star Boy Loc","Bottley Kholo (From ""Kuch Khattaa Ho Jaay"")","Bottley Kholo (From ""Kuch Khattaa Ho Jaay"")",56,192124,FALSE,0.766,0.884,8,-2.599,0,0.0462,0.247,0.0,0.06,0.906,122.021,4
+734VWktO4KNyLMkyrZqhGv,Indrasish Ghosh,Moushiki,Moushiki,28,249000,FALSE,0.549,0.556,8,-7.139,1,0.0571,0.388,8.83E-06,0.0634,0.379,159.568,4
+1n4sbdd6MHD7mIByj2HI0Q,"Sachin-Jigar, Saba Azad, Ankur Tewari",Kho Gaye Hum Kahan (Original Motion Picture Soundtrack),"I Wanna See You Dance - From ""Kho Gaye Hum Kahan""",68,162473,FALSE,0.858,0.639,7,-6.44,1,0.0524,0.416,0.00197,0.0945,0.963,122.006,4
+2TejsTjYgo5TSVLy6XrK0O,Akshay Malik,Yaadein,Yaadein,29,214864,FALSE,0.475,0.339,0,-13.427,0,0.035,0.0241,0.000339,0.157,0.125,74.052,4
+2SFFk9TMt3W9NMRToFt6KB,"Jubin Nautiyal, Payal Dev, Manoj Muntashir","Desh Pehle (From ""Main Atal Hoon"")","Desh Pehle - From ""Main Atal Hoon""",52,203806,FALSE,0.362,0.451,5,-8.408,1,0.0371,0.702,0.0,0.122,0.398,80.232,4
+054FcECgMPX1rFYqCNeiRA,Indrasish Ghosh,Aa Bhi Jaa,Aa Bhi Jaa,28,301524,FALSE,0.579,0.55,0,-7.048,0,0.0304,0.803,0.0,0.18,0.197,135.825,4
+29DEeXzWoi0pOZQVikL2ad,"Tanishk Bagchi, Shehnaaz Gill",Mirza,Mirza,59,145568,FALSE,0.74,0.282,1,-13.139,0,0.259,0.645,7.01E-05,0.228,0.517,88.105,4
+2QYuZ7sFjZhupYzEyzpshF,Ashish Verma,Gudiya,Gudiya,26,283786,FALSE,0.429,0.53,6,-7.906,1,0.0302,0.35,2.77E-05,0.164,0.205,100.006,4
+0qQ4IdhjzNr0gJhdMTf2n3,"Pritam, Arijit Singh, Irshad Kamil","O Maahi (From ""Dunki"")","O Maahi (From ""Dunki"")",82,233453,FALSE,0.616,0.669,1,-6.836,1,0.0349,0.562,0.0,0.177,0.475,116.973,4
+1Uh28ktkzpmdblAbx1WY42,Siddhant Goenka,Pari,Pari,38,195750,FALSE,0.375,0.441,11,-12.559,0,0.0302,0.211,0.748,0.665,0.201,104.993,3
+21htcSUXAaLkOg8a114IwQ,"Anirudh Ravichander, Raqueeb Alam, J.V. Sudhanshu, Priya Mali","Tera Hi Jaadu Hai [From ""Leo (Hindi)""]","Tera Hi Jaadu Hai (From ""Leo (Hindi)"")",42,214330,FALSE,0.483,0.572,10,-11.78,1,0.0409,0.745,0.0247,0.0912,0.541,83.881,4
+0xIuPDzJSnJywALez8dwKR,AP Dhillon,With You,With You,80,154554,FALSE,0.78,0.744,2,-4.773,1,0.0298,0.161,0.0011,0.201,0.925,116.978,4
+1zph34oECi66uU4wydNT5Z,Indrasish Ghosh,Is Pyar Mahine Chal,Is Pyar Mahine Chal,27,152614,FALSE,0.566,0.48,3,-10.423,1,0.0344,0.272,9.14E-05,0.0983,0.226,101.872,4
+3xMHXmedL5Rvfxmiar9Ryv,"Anirudh Ravichander, Arijit Singh, Shilpa Rao, Kumaar",Jawan,Chaleya,81,200373,FALSE,0.575,0.845,0,-5.28,1,0.0852,0.393,0.0107,0.131,0.439,95.047,4
+0hhzk7P8SJshHfd30VB9cy,Sharib Ilahi,Maahi,Maahi,27,183652,FALSE,0.683,0.828,0,-7.981,0,0.0343,0.197,0.00227,0.095,0.347,114.993,4
+7IAQHk6RJXzBm07yJHFoXf,Arijit Singh,Dil Haareya,Dil Haareya,55,239835,FALSE,0.581,0.676,5,-7.7,1,0.0315,0.675,2.58E-06,0.358,0.458,101.973,4
+3QTkjWiBh8Kz6SHpbiiXfK,Akash Vaigyanik,Prayogshala,Kinaarey,28,215542,FALSE,0.571,0.566,1,-10.523,0,0.0684,0.253,0.0116,0.396,0.356,159.945,3
+6UcUyf1oM9SUNsGBhrnWxE,Raman Sharma,Fire in your Heart (Official KickFlicks Anthem),Fire in your Heart (Official KickFlicks Anthem),27,224516,FALSE,0.538,0.401,2,-9.203,0,0.0319,0.448,0.0,0.15,0.306,124.169,4
+768EkqSx9tvhMotfwGEum3,"Pritam, Javed Ali, Varun Grover",Dunki,Chal Ve Watna,60,252119,FALSE,0.482,0.656,4,-7.266,0,0.0414,0.76,0.000125,0.0775,0.477,82.018,4
+6R9SQ5Ya5nfyAQaSv0uqoO,S.Ganesh,Janaki Jane,Janaki Jane,19,249000,FALSE,0.293,0.165,8,-11.955,1,0.0339,0.921,0.0,0.0747,0.288,163.104,4
+0eLtIxPRNJfsmehITZ1qaJ,Aditya Rikhari,Sahiba,Sahiba,56,190098,FALSE,0.675,0.432,10,-9.076,0,0.0332,0.551,0.0,0.0772,0.431,100.007,4
+5PUXKVVVQ74C3gl5vKy9Li,"Jasleen Royal, Arijit Singh, Harrykahanhai",Heeriye (feat. Arijit Singh),Heeriye (feat. Arijit Singh),85,194857,FALSE,0.728,0.494,6,-9.628,0,0.0256,0.516,0.00384,0.0759,0.558,105.007,4
+7k8g09FNAw41bJatQuR6K9,Darshan Raval,Dard,Mahiye Jinna Sohna Unplugged,59,147705,FALSE,0.291,0.385,0,-8.227,1,0.0319,0.807,0.0,0.0673,0.404,75.75,1
+1km1GQ1hA4mapouca9bZ3h,Akshay Malik,Kaash,Kaash,26,232000,FALSE,0.239,0.326,4,-13.91,1,0.031,0.289,0.000414,0.0825,0.261,88.983,4
+2LeEZWL4E2Wlw2CUGdm90p,"Kushagra Agrawal, Mahesh Chandak",Tere Saaye,Tere Saaye,52,266220,FALSE,0.545,0.555,10,-12.966,0,0.0416,0.664,0.0,0.0716,0.446,151.859,4
+4Bq4obHU84N7Vw1UX2pMDC,Raman Sharma,Khelenge Jeetenge (Official DITF Anthem),Khelenge Jeetenge (Official DITF Anthem),20,111428,FALSE,0.378,0.842,4,-7.741,1,0.0722,0.0176,0.0,0.271,0.516,102.44,3
+4QyX8CBSjcoq4iMZuvifyF,"Pritam, Arijit Singh, Jonita Gandhi, Ranveer Singh, Madan Mohan, Amitabh Bhattacharya","What Jhumka ? (From ""Rocky Aur Rani Kii Prem Kahaani"")","What Jhumka ? (From ""Rocky Aur Rani Kii Prem Kahaani"")",69,213611,FALSE,0.821,0.823,2,-5.455,1,0.1,0.235,0.0,0.207,0.479,107.953,4
+21zqPDczge9CpJqDRcay5u,Ashish Verma,Chehra,Chehra,26,295846,FALSE,0.444,0.234,4,-10.332,1,0.0346,0.418,0.00264,0.118,0.239,129.736,3
+3pKY1kptZwQVjcS4zLFjYG,"Shide Boss, Mazza On The Track",Dil Ko (Hold You Down),Dil Ko (Hold You Down),38,142584,FALSE,0.674,0.426,8,-9.269,0,0.0478,0.32,1.33E-05,0.12,0.565,94.965,4
+4r8Tav6O2za5iSStdozans,"Shreya Sharma, Trxbl, Mazza On The Track",Rani,Rani,29,124800,FALSE,0.778,0.65,1,-9.721,0,0.046,0.046,0.0,0.111,0.767,100.059,4
+3Ke8cQwRISvXEXXvHou7Rv,Nikhil D'Souza,Because Because Because,Because Because Because,28,238899,FALSE,0.63,0.574,9,-6.74,1,0.0263,0.00885,0.0,0.0822,0.305,103.062,4
+60u29xfTGpUMpeE7SvFc3C,"Pritam, Darshan Raval, Bhoomi Trivedi, Amitabh Bhattacharya","Dhindhora Baje Re (From ""Rocky Aur Rani Kii Prem Kahaani"")","Dhindhora Baje Re (From ""Rocky Aur Rani Kii Prem Kahaani"")",54,253599,FALSE,0.679,0.883,9,-6.281,0,0.112,0.219,1.65E-05,0.165,0.726,128.004,4
+4o0JdRDPIkGtXWwFxhbzX8,S.Ganesh,Dil Se Baatein Karenge,Dil Se Baatein Karenge,24,151875,FALSE,0.728,0.451,0,-11.923,1,0.0447,0.0568,0.000661,0.0972,0.664,99.976,4
+03hJuEQpEQERrHpjcXKWzJ,"Mithoon, Arijit Singh, Manoj Muntashir","Tumhe Kitna Pyaar Karte (From ""Bawaal"")","Tumhe Kitna Pyaar Karte (From ""Bawaal"")",73,305232,FALSE,0.602,0.374,10,-9.849,0,0.0328,0.924,7.53E-06,0.084,0.388,101.855,4
+71hjdkWEDFxESRWPDvDMNb,"Sachet-Parampara, Sachet Tandon, Parampara Tandon",Adipurush,Ram Siya Ram,50,230092,FALSE,0.426,0.617,1,-6.377,0,0.0278,0.599,6.25E-05,0.181,0.52,81.982,4
+3dpM3ijJz0vGzbkh5DcMXz,"Payal Dev, Vishal Mishra, A.M. Turaz","Naseeb Se (From ""Satyaprem Ki Katha"")","Naseeb Se (From ""Satyaprem Ki Katha"")",78,184312,FALSE,0.557,0.599,9,-6.309,0,0.0447,0.556,1.22E-06,0.103,0.392,149.785,4
+1JBm3IDx7yiXnB4LrnQ7k5,"Javed-Mohsin, Shreya Ghoshal, Stebin Ben",Barsaat Aa Gayi,Barsaat Aa Gayi,44,220267,FALSE,0.49,0.72,8,-4.948,0,0.0687,0.6,0.0,0.162,0.478,167.939,4
+0hOqMsscursarJjpcMgGgu,"Hassan & Roshaan, Shae Gill",Day 5,Sukoon,59,255764,FALSE,0.705,0.493,4,-7.12,1,0.0552,0.283,0.000688,0.125,0.794,149.957,4
+0oUidyQb3wXPv2Krqas06V,"Mohit Chauhan, Gaurav Chatterji, Sai Kabir","Tum Se Milke (From ""Tiku Weds Sheru"")","Tum Se Milke (From ""Tiku Weds Sheru"")",36,182681,FALSE,0.559,0.448,1,-10.685,0,0.0409,0.317,1.42E-05,0.257,0.38,82.455,3
+2mmIppYLhCJnJjXaZuG1ug,Bhagyesh Hendre,Mera Sukoon,Mera Sukoon,23,242378,FALSE,0.486,0.411,0,-9.254,0,0.0268,0.81,0.000166,0.116,0.231,147.895,3
+48tLTRTLXGx9nj9RHgal6S,"Priyansh Srivastava, Garvit Soni, Garvit - Priyansh",Chal Bhool Ja,Chal Bhool Ja,26,148222,FALSE,0.452,0.175,7,-14.144,1,0.0316,0.893,0.000411,0.0794,0.272,134.679,4
+1IicjtP8bbwZnrFzht6Fp2,Sharib Ilahi,Meetha Suroor,Meetha Suroor,23,189031,FALSE,0.522,0.544,0,-6.492,1,0.0262,0.567,0.0,0.0955,0.416,95.006,4
+7djG261pBB0zp8kO6rNEVf,Ashish Verma,Safar,Safar,21,225148,FALSE,0.63,0.419,0,-10.736,1,0.0311,0.421,0.0121,0.128,0.111,97.0,4
+44d4iY6pTwTYi0pq0PkKxC,Jass Manak,Tufang (Original Motion Picture Soundtrack),Teri Main Hogayi,29,206875,FALSE,0.619,0.69,4,-5.568,1,0.0401,0.488,0.0,0.0934,0.617,143.875,4
+6J4oLY2GEwOsUgEd50IpKy,Twin Strings,Baarish Ka Asar,Baarish Ka Asar,57,245500,FALSE,0.59,0.63,9,-6.735,1,0.0279,0.469,1.02E-05,0.15,0.227,119.962,4
+15Hh48XELbgkS3HQUC2hUq,Mitraz,Zehen,Zehen,64,154091,FALSE,0.565,0.635,10,-6.534,1,0.0491,0.305,3.71E-06,0.0996,0.404,193.991,4
+2rIy8o04CiC0HC2uqqJT2K,"Meet Bros., Star Boy Loc, Kumaar","Gujju Pataka (From ""Satyaprem Ki Katha"")","Gujju Pataka (From ""Satyaprem Ki Katha"")",47,267290,FALSE,0.466,0.759,7,-7.107,1,0.189,0.0332,0.0,0.0693,0.453,137.022,4
+1pDvtLmrjzr5FSQItRLWxA,"Sachet Tandon, Parampara Tandon, Sachet-Parampara, Kumaar",Deewani,Deewani,64,174149,FALSE,0.559,0.762,10,-4.337,1,0.032,0.476,0.0,0.0843,0.662,108.012,4
+25uN6X9UdP4bDx7gQl7nyE,Amaal Mallik,Mohabbat,Mohabbat,45,227137,FALSE,0.595,0.703,10,-6.857,1,0.0389,0.478,8.29E-06,0.334,0.638,78.987,4
+2vfL2OwTXZAsr2RIZF5OZF,Samyak Prasana,Aahatein,Aahatein,49,229717,FALSE,0.575,0.117,3,-15.328,1,0.0327,0.798,0.0,0.136,0.368,131.829,4
+0Dea6lSNStSGx3XiLqXIT9,Taaruk Raina,Narazi,Narazi,55,168064,FALSE,0.436,0.526,9,-9.595,0,0.0314,0.68,3.92E-05,0.169,0.373,92.741,4
+1rDjwexewf4hrdZT7SRNsH,"Faridkot, Amar Jalal",Nasha (Equals Sessions) - Single,Nasha (Equals Sessions),61,287573,FALSE,0.78,0.46,6,-7.516,1,0.0851,0.455,0.000141,0.061,0.788,124.007,4
+2FuJW8p6IWXXVN2zxaxPQ5,"Ajay-Atul, Sonu Nigam, Shreya Ghoshal",Adipurush,Tu Hai Sheetal Dhaara,46,201141,FALSE,0.172,0.267,5,-11.361,1,0.0389,0.917,0.198,0.122,0.227,74.733,4
+1t7CS5cOwUCufHKiVzPZgw,"Adnan Sami, Shor Police, Hussain Haidry","Yeh Nazar (From ""I Love You"")","Yeh Nazar (From ""I Love You"")",18,230975,FALSE,0.65,0.429,7,-7.618,0,0.0352,0.412,0.0,0.113,0.713,122.862,4
+6AV6g5Y1h7icrQT4G9EoXu,"Shekhar Ravjiani, Rashmi Virag, Arish B",Kehde Kehde Haan,Kehde Kehde Haan,24,177172,FALSE,0.548,0.36,5,-11.217,1,0.03,0.774,0.0,0.154,0.709,94.801,4
+7EYEswNmA0XjzwUitONgzK,Deepak Rathore Project,Tuta Pull Wahan,Tuta Pull Wahan,61,313170,FALSE,0.588,0.283,8,-12.663,1,0.0364,0.863,0.0,0.121,0.284,82.044,4
+5fdhNvwWmlqnzICxp25b1G,Ankur Tewari,Bhool Gaye,Bhool Gaye,52,60957,FALSE,0.649,0.331,7,-12.401,1,0.0434,0.815,0.0634,0.126,0.675,200.185,4
+74kCarkFBzXYXNkkYJIsG0,Anuv Jain,Alag Aasmaan,Alag Aasmaan,33,212773,FALSE,0.699,0.299,6,-12.599,1,0.0403,0.869,0.0,0.0724,0.459,118.969,4
+7rH093pT1fUvkFiIpPFGq4,"Lucky Ali, Mikey McCleary",sayyāh,sayyāh,39,253548,FALSE,0.614,0.418,7,-8.584,1,0.0305,0.633,0.00582,0.0813,0.172,123.965,4
+2lfKa3eVovQUNoPlxb0dwi,"Manan Bhardwaj, Tulsi Kumar","Aaj Ke Baad (From ""Satyaprem Ki Katha"")","Aaj Ke Baad (From ""Satyaprem Ki Katha"")",51,217123,FALSE,0.483,0.608,0,-6.109,1,0.0313,0.48,1.66E-06,0.1,0.29,86.933,3
+084PIRH0NG14m5z8p27Uon,"Armaan Malik, Gaurav Chatterji, Ginny Diwan","Hai Tu (From ""I Love You"")","Hai Tu (From ""I Love You"")",27,188571,FALSE,0.695,0.522,6,-8.969,1,0.0576,0.764,0.000878,0.0994,0.647,126.007,4
+2YevgojIN3UouxDM5JjzE0,Aditya A,Awaargi,Awaargi,69,61491,FALSE,0.643,0.33,5,-13.074,1,0.0318,0.854,0.404,0.151,0.796,93.093,4
+0XCtRvfDHT98h0iUSDFtyO,Namita Choudhary,Chaap Tilak,Chaap Tilak,56,194821,FALSE,0.544,0.38,6,-8.339,1,0.0318,0.859,0.0,0.0762,0.149,84.267,4
+0iEdt7cayQ2XbicDeWFztj,Anumita Nadesan,Khwaab,Khwaab,62,178421,FALSE,0.676,0.376,2,-11.282,1,0.0351,0.887,0.000183,0.0853,0.226,113.948,4
+7c0rTqSdcIYvbU3jLKzdYF,"Rito Riba, Rajat Nagpal, Rana Sotal",Baarish Aayi Hai,Baarish Aayi Hai,47,197010,FALSE,0.52,0.413,9,-10.82,1,0.0309,0.406,0.0,0.0916,0.352,80.071,4
+7Ky9U9iHjGBiRax3joCRDS,"Sachin-Jigar, Arijit Singh, Amitabha Bhattacharya","Phir Aur Kya Chahiye (From ""Zara Hatke Zara Bachke"") - Single","Phir Aur Kya Chahiye (From ""Zara Hatke Zara Bachke"")",65,266075,FALSE,0.556,0.552,4,-5.875,1,0.0373,0.531,0.0,0.121,0.531,100.051,4
+5DzZJovTg1xiS7HXcoGXNZ,Raj Barman,Jab Mil Jao,Jab Mil Jao,33,253421,FALSE,0.464,0.463,10,-12.381,0,0.0465,0.66,0.0,0.179,0.481,151.964,4
+36zJvaFktpReO0ZpO7zK7H,Akshath,Noor,Noor,52,192592,FALSE,0.528,0.415,0,-11.882,0,0.036,0.856,0.0307,0.0995,0.333,81.0,4
+5Z2GQ0eBKoatNYqbGayihP,Anubha Bajaj,Lamhey,Lamhey,71,148966,FALSE,0.571,0.395,2,-10.502,1,0.0372,0.601,0.000247,0.255,0.631,173.998,4
+5YyXq5rzZyyEbNptsLFz3W,"Mitraz, Arooh",Khwahish,Khwahish,59,145080,FALSE,0.689,0.447,0,-9.242,1,0.0254,0.826,0.000183,0.115,0.309,112.064,4
+1tcfSSF3YuiPYR94er4eZQ,"Sachin-Jigar, IP Singh, Rashmeet Kaur, Mellow D",Jee Karda,Stardust,36,141281,FALSE,0.876,0.668,2,-5.649,0,0.126,0.58,0.00045,0.394,0.779,100.036,4
+5hhBvvpp7zyZiS2fuQgEa4,"Badshah, Payal Dev","Issa Vibe (From ""Bloody Daddy"")","Issa Vibe (From ""Bloody Daddy"")",34,147613,FALSE,0.612,0.618,4,-6.903,0,0.336,0.123,2.47E-06,0.27,0.777,175.836,4
+6t7PuZfHAtNGheWisgUq3I,"B Praak, Jaani",Kya Loge Tum,Kya Loge Tum,73,233684,FALSE,0.69,0.738,0,-4.046,1,0.0533,0.189,0.0,0.109,0.642,113.824,3
+18qN1yxa4SVwmykQq1Icrl,"Abhijeet Srivastava, Prateeksha Srivastava",Khayaal,Khayaal,58,162206,FALSE,0.5,0.677,0,-7.73,0,0.0634,0.21,0.0,0.118,0.524,149.751,3
+3JJtci5fSMdxYCVoHRHX2h,Anuv Jain,Antariksh,Antariksh,67,165750,FALSE,0.519,0.551,2,-11.193,0,0.177,0.287,0.0,0.117,0.237,177.976,4
+5GhNEr3AQtMhHGYLRgCSV5,"Varun Jain, Sachin-Jigar, Shadab Faridi, Altamash Faridi, Amitabh Bhattacharya",Zara Hatke Zara Bachke (Original Motion Picture Soundtrack),Tere Vaaste,10,189136,FALSE,0.762,0.717,7,-8.316,0,0.0372,0.315,1.87E-05,0.0914,0.958,109.996,4
+51DEaelXeJJ6cFFYbX8Hal,"Javed-Mohsin, Vishal Mishra, Shreya Ghoshal",Zihaal e Miskin,Zihaal e Miskin,77,243953,FALSE,0.581,0.632,9,-7.166,0,0.0331,0.259,0.0,0.0903,0.386,128.844,4
+3lX88j758RWOL5B7uAM3tR,"Tulsi Kumar, Anurag Saikia, JUNO",Bolo Na,Bolo Na,32,190043,FALSE,0.755,0.274,2,-9.802,1,0.087,0.68,0.000936,0.0923,0.593,140.033,4
+5N21MtYa2f16k5XrgweCv6,Anumita Nadesan,Khoya Khoya,Khoya Khoya,42,211495,FALSE,0.355,0.246,8,-12.721,1,0.0316,0.864,8.39E-06,0.0936,0.397,185.327,4
+5iee3AwBC3J69D3qA70A0F,"Shilpa Rao, Sachin-Jigar, Sachet Tandon, Amitabh Bhattacharya",Zara Hatke Zara Bachke (Original Motion Picture Soundtrack),Saanjha,1,297407,FALSE,0.476,0.53,9,-7.358,1,0.0294,0.485,0.0,0.346,0.178,89.966,4
+0YpPZW7TIzQbG536lb2abc,"Sachin-Jigar, Simran Choudhary",Jee Karda,Ammiye,34,257079,FALSE,0.37,0.521,2,-9.621,1,0.0964,0.809,0.0,0.0897,0.415,81.505,4
+0OAU6v6D2H69mqPiEtgWYi,Akull,Daffa Ho,Daffa Ho,41,211384,FALSE,0.735,0.626,7,-5.541,0,0.0883,0.309,0.0,0.123,0.663,97.461,4
+0YVpNFgaEt2NFBAcUBiZU0,Munawar Faruqui,Madari,Kajal,46,161676,FALSE,0.732,0.281,11,-12.471,1,0.0601,0.878,1.09E-05,0.122,0.209,148.053,4
+2duOYyONRHWixdflhwSJnw,"Tony Kakkar, Neha Kakkar, Tony Jr., Priyanka Ahuja",Balenciaga,Balenciaga,45,171211,FALSE,0.865,0.725,10,-5.397,0,0.067,0.311,0.0,0.164,0.695,104.043,4
